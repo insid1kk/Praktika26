@@ -1,0 +1,36 @@
+[
+  {
+    "date": "2026-10-09T12:49:47",
+    "operation": "load",
+    "params": {
+      "path": "C:/Users/User/Desktop/OIP.png"
+    }
+  },
+  {
+    "date": "2026-10-09T12:49:52",
+    "operation": "apply",
+    "params": {
+      "grayscale": true,
+      "blur_radius": 0,
+      "width": 474,
+      "height": 474
+    }
+  },
+  {
+    "date": "2026-10-09T12:49:57",
+    "operation": "apply",
+    "params": {
+      "grayscale": true,
+      "blur_radius": 5,
+      "width": 474,
+      "height": 474
+    }
+  },
+  {
+    "date": "2026-10-09T12:50:17",
+    "operation": "save",
+    "params": {
+      "path": "C:/Users/User/Desktop/Ревьюирование программных модулей/Src/Пример для PY/1.png"
+    }
+  }
+]
