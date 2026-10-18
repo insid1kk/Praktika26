@@ -1,8 +1,0 @@
-2026-10-09 12:49:47,826 [INFO] image_core: Загрузка изображения: C:/Users/User/Desktop/OIP.png
-2026-10-09 12:49:47,941 [INFO] image_core: Информация: 474 x 474, WEBP, 25270 B
-2026-10-09 12:49:52,909 [INFO] image_core: Применение ч/б
-2026-10-09 12:49:52,910 [INFO] image_core: Resize: 474x474
-2026-10-09 12:49:57,070 [INFO] image_core: Применение ч/б
-2026-10-09 12:49:57,072 [INFO] image_core: Размытие: radius=5
-2026-10-09 12:49:57,082 [INFO] image_core: Resize: 474x474
-2026-10-09 12:50:17,239 [INFO] image_core: Сохранено: C:/Users/User/Desktop/Ревьюирование программных модулей/Src/Пример для PY/1.png
